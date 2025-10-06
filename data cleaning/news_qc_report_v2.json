@@ -1,0 +1,22 @@
+{
+  "processing_info": {
+    "total_files": 929999,
+    "passed": 54146,
+    "pass_rate": "5.82%"
+  },
+  "filter_settings": {
+    "require_company_mention": true,
+    "require_stock_actions": true,
+    "exclude_market_overview": true,
+    "min_content_length": 50
+  },
+  "statistics": {
+    "unique_companies": 1783,
+    "total_company_mentions": 165814,
+    "date_coverage": 84
+  },
+  "performance": {
+    "elapsed_time": "7832.4 秒",
+    "processing_speed": "118.7 檔案/秒"
+  }
+}
